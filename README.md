@@ -37,7 +37,7 @@ In the end, we tested and fixed minor bugs, our layout and coding issues togethe
 
 <br>
 
-To view the live website, please navigate to the **Deployed Link** below or  [click here](https://kellystone4.github.io/o-clocktail/index.html) to view the page.
+To view the live website, please navigate to the **Deployed Link** below or  [click here](https://christyglee.github.io/o-clocktail/) to view the page.
 
 <br>
 
@@ -60,7 +60,7 @@ To view the live website, please navigate to the **Deployed Link** below or  [cl
 
 ## Deployed Link
 
-* [See Live Site](https://kellystone4.github.io/o-clocktail/index.html)
+* [See Live Site](https://christyglee.github.io/o-clocktail/)
 
 
 <br>
